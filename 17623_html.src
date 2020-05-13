@@ -86,14 +86,10 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-2 d-none d-md-block">
-      <a target='_blank' href='https://lin.ee/4WscYE4Cq' onclick="ga('send', 'event', 'Ads', 'Click', 'Vertical Ads V1');">
-        <img src='images/vertical_ads.png' style='width: 100%'></img>
-      </a>
+      <a target='_blank' href='https://lin.ee/4WscYE4Cq'><img src='images/vertical_ads.png' style='width: 100%'></img></a>
     </div>
     <div class="col-md-10">
-      <a class='d-md-none' target='_blank' href='https://lin.ee/4WscYE4Cq' onclick="ga('send', 'event', 'Ads', 'Click', 'Block Ads V1');">
-        <img src='images/block_ads.jpg' class='image'></img>
-      </a>
+      <a class='d-md-none' target='_blank' href='https://lin.ee/4WscYE4Cq'><img src='images/block_ads.jpg' class='image'></img></a>
       <div class="loader" style='margin: auto; margin-top: 200px;'></div>
       <div class="gallery">
         <img src='images/insurance_1.jpg' class='image'></img>

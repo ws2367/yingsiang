@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>映像免費安全照片空間</title>
 
 <link rel="icon" href="favicon.ico" type="image/x-icon"/>
@@ -28,7 +29,7 @@
 }
 .image {
   padding: 5px;
-  width: 80%;
+  width: 90%;
 }
 
 .gallery {
@@ -73,30 +74,18 @@
 <body style='background-color: rgb(26, 26, 26)'>
 <!-- <body style='background-color: rgb(26, 26, 26)'  oncontextmenu="return false;"> -->
   <section class="jumbotron text-center">
-    <div class="container">
+    <div>
       <h1><img src='logo.png' style='width: 70px; display: inline' />映像免費安全照片空間</h1>
-      <p class="lead text-muted">免費上傳你的照片到映像，提供限時瀏覽，終止後後台照片絕對刪除，瀏覽時避免別人下載，保證安全無虞</p>
+      <p class="lead text-muted">免費上傳你的照片到映像，限時分享瀏覽，防止下載，保證安全無虞</p>
     </div>
   </section>
-
+  <div style='height: 150px;'></div>
   <p>
-    <h1 class='text-center' style='color: rgb(227, 227, 227); font-size: 40px; padding: 10px'>相簿17623</h1>
+    <h1 class='text-center' style='color: rgb(227, 227, 227); font-size: 40px; padding: 10px'>錯誤500，內部伺服器錯誤</h1>
   </p>
+<div class="container-fluid" style='height: 300px;'>
 
-  <div class="row">
-    <div class="col-2">
-      <a target='_blank' href='https://cooby.co'><img src='ads.gif' class='image'></img></a>
-    </div>
-    <div class="col-10">
-      <div class="loader" style='margin: auto; margin-top: 200px;'></div>
-
-      <div class="gallery">
-        <img src='img_1.jpg' class='image'></img>
-        <img src='img_2.jpg' class='image'></img>
-      </div>
-    </div>
-  </div>
-
+</div>
 
 
 <script>
